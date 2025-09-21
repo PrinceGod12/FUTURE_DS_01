@@ -5,7 +5,7 @@ This repository contains my project for the Data Science & Analytics internship 
 ### 📁 Files Included
 - [FUTURE_DS_01.pbix](FUTURE_DS_01.pbix) – Power BI report file with interactive charts and filters.
 - [superstore.xls](superstore.xls) – Dataset containing sales records used for analysis.
-- [Report.pdf](Report.pdf) – A detailed report explaining the methodology, findings, and recommendations.
+- [Report.docx](Report.docx) – A detailed report explaining the methodology, findings, and recommendations.
 - [Screenshots.png](Screenshots.png) – Image showing the dashboard visuals for quick reference.
 
 
