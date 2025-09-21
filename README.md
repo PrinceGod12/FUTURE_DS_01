@@ -35,7 +35,7 @@ The main questions this analysis addresses are:
 ## 📖 How to Use
 1. Download and open the `.pbix` file using Power BI Desktop.
 2. Explore the interactive dashboards by using filters for regions, categories, and years.
-3. Refer to `Report.pdf` for a comprehensive overview and business recommendations.
+3. Refer to `Report.docx` for a comprehensive overview and business recommendations.
 
 ---
 
